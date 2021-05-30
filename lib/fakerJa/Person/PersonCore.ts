@@ -2,7 +2,6 @@ import lastNameList from "../../data/lastName.json";
 import firstNameM from "../../data/firstNameM.json";
 import firstNameF from "../../data/firstNameF.json";
 import BasePersonCore from "./BasePersonCore"
-import { getRandInt } from "../../util/random"
 
 
 export interface PersonCoreConstractor {
